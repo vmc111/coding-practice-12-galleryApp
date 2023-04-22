@@ -1,0 +1,16 @@
+/* Write your code here. */
+.thumbnail {
+  height: 100%;
+  width: 100%;
+}
+.btn {
+  padding: 0px;
+  border: none;
+  opacity: 0.5;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+.selecte-img {
+  opacity: 1;
+}

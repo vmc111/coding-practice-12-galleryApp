@@ -1,0 +1,21 @@
+/* Write your code here. */
+.bg-container {
+  padding: 3vh 5vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.gallery-image {
+  height: 80vh;
+  width: 80vw;
+}
+
+.thumbnails {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+
+  list-style: none;
+}
